@@ -1,0 +1,84 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#status{
+    font-size: 20px;
+    font-family: serif;
+}
+
+body{
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+}
+
+canvas{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 15px;
+}
+.copy_right_footer{
+bottom: 0;
+width: 100%;
+line-height: 3;
+position: fixed;
+color: black;
+font-family: Impact;
+background-color:rgb(155, 248, 186);
+text-align: center;
+}
+
+#btn1{
+    background-color: chartreuse;
+    color:black;
+    border-radius: 20px;
+    width: 15%;
+    height: 5%;
+    font-family: 'Arial Narrow Bold';
+}
+
+#btn1{
+    background-color: chartreuse;
+    color:black;
+    border-radius: 20px;
+    width: 15%;
+    height: 5%;
+    font-family: 'Arial Narrow Bold';
+}
+
+#btn2{
+    background-color: #4FFFB0;
+    color:black;
+    border-radius: 20px;
+    width: 15%;
+    height: 5%;
+    font-family: 'Arial Narrow Bold';
+}
+
+
+#btn3{
+    background-color: #17B169;
+    color:black;
+    border-radius: 20px;
+    width: 15%;
+    height: 5%;
+    font-family: 'Arial Narrow Bold';
+}
+
+
+#btn4{
+    background-color:#0BDA51;
+    color:black;
+    border-radius: 20px;
+    width: 15%;
+    height: 5%;
+    font-family: 'Arial Narrow Bold';
+}
+
+.buttons:active{
+    background-color: #004526;
+    color: white;
+}
